@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Welcome
+# Archival Poetry 
 
-Hello World. Hello Friend.
+Draft - An effort to create a visual bibliography of poetry books that make use of archival material explicitly
 
